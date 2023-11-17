@@ -1,0 +1,12 @@
+name: fuzzySchelling
+channels:
+  - defaults
+dependencies:
+  - python=3.10.9
+  - scipy
+  - matplotlib
+  - numpy
+  - ipykernel
+  - ipympl
+
+# conda env create --file fuzzySchelling.yaml
